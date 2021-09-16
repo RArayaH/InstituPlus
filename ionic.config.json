@@ -1,0 +1,7 @@
+{
+  "name": "InstituPlus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
